@@ -1,64 +1,96 @@
-# Hi, I'm Kübra 👋
+# 👋 Ciao, I'm Kübra
 
-AI Engineer & Data Scientist focused on Machine Learning, Generative AI, and building practical AI solutions.
+AI Engineer & Data Scientist passionate about building intelligent systems with Machine Learning, Generative AI, and data-driven technologies.
 
-I work on designing, developing, and deploying AI-driven applications using modern ML frameworks, data pipelines, and automation tools.
+My background combines Artificial Intelligence with Biomedical Sciences, allowing me to work across software, data, and healthcare-related AI applications.
 
 ---
 
-## 🚀 About Me
+## ⚡ What I Do
 
-- 🤖 Building applications with Machine Learning, LLMs, and Generative AI
-- 📊 Working with data analysis, predictive models, and AI workflows
-- 🧠 Interested in AI agents, RAG systems, Computer Vision, and intelligent automation
-- ⚙️ Creating scalable prototypes and end-to-end AI solutions
+- Build machine learning and deep learning solutions
+- Develop AI-powered applications and automation workflows
+- Work with structured and unstructured data
+- Explore LLMs, computer vision, and generative models
+- Transform ideas into practical AI prototypes
 
-## 🛠️ Skills & Tools
+---
 
-**AI / ML**
-- PyTorch, TensorFlow, Keras
-- scikit-learn
-- Hugging Face Transformers
-- LangChain
+## 💼 Professional Experience
 
-**Data**
-- Python
-- Pandas, NumPy
-- SQL
-- Data Visualization
+### AI & Data Scientist — Freelance
+2024 — Present
 
-**Development**
-- FastAPI
-- Docker
-- Git
-- Linux
+Developing AI and data science solutions involving:
+- Data processing and analysis
+- Machine learning workflows
+- AI automation
+- Applied AI projects across different domains
 
-## 🔥 Projects
+### AI Research — Medical Imaging
+Ospedale San Raffaele
 
-### 🤖 Generative AI
-LLM applications, RAG pipelines, AI automation workflows, and intelligent assistants.
+Worked on AI applications for medical imaging, including:
+- Deep learning pipelines
+- PET image analysis
+- Synthetic image generation
+- Computer vision workflows
 
-### 📈 Machine Learning
-Predictive modeling, data processing pipelines, and model evaluation.
+---
 
-### 👁️ Computer Vision
-Deep learning models for image analysis and computer vision tasks.
+## 🚀 Projects I Work On
 
-### 🏥 Healthcare AI
-AI applications involving medical data and imaging.
+🧠 **Synthetic Medical Image Generation**
+
+Deep learning approaches for generating synthetic imaging data using image-to-image translation models.
+
+🤖 **Generative AI Systems**
+
+Building applications with:
+
+- LLMs
+- RAG pipelines
+- AI agents
+- Automated workflows
+
+📊 **Machine Learning Projects**
+
+Exploring:
+
+- Predictive modeling
+- Data analysis
+- Model optimization
+
+---
+
+## 🧰 Toolbox
+
+**Languages**
+Python · SQL · R
+
+**AI & Data**
+PyTorch · TensorFlow · Keras · Scikit-learn  
+Pandas · NumPy
+
+**GenAI**
+Transformers · LangChain · LLM APIs
+
+**Tools**
+Git · Docker · Linux · FastAPI
+
+**Computer Vision**
+OpenCV · MONAI
+
+---
 
 ## 🎓 Background
 
-MSc in Artificial Intelligence for Science & Technology.
+MSc in Artificial Intelligence for Science & Technology
 
-Interested in building AI systems that create real-world impact.
-
----
-
-## 📫 Connect
-
-LinkedIn: https://www.linkedin.com/in/kubrai/
+Previously trained in Biomedical Sciences, combining life science knowledge with AI.
 
 ---
 
-⭐ Building useful AI systems that combine data, automation, and intelligent models.
+## 🌐 Find Me
+
+LinkedIn: https://www.linkedin.com/in/kubrai
