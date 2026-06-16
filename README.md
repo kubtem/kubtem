@@ -18,7 +18,7 @@ My background combines Artificial Intelligence with Biomedical Sciences, allowin
 
 ## 💼 Professional Experience
 
-### AI & Data Scientist — Freelance
+### AI & Data Scientist - Freelance
 2024 - Present
 
 Developing AI and data science solutions involving:
