@@ -6,7 +6,7 @@ My background combines Artificial Intelligence with Biomedical Sciences, allowin
 
 ---
 
-## ⚡ What I Do
+## 🤖 What I Do
 
 - Build machine learning and deep learning solutions
 - Develop AI-powered applications and automation workflows
@@ -40,7 +40,7 @@ Worked on AI applications for medical imaging, including:
 
 ## 🚀 Projects I Work On
 
-🧠 **Synthetic Medical Image Generation**
+🧠 🧬 **Synthetic Medical Image Generation**
 
 Deep learning approaches for generating synthetic imaging data using image-to-image translation models.
 
@@ -63,7 +63,7 @@ Exploring:
 
 ---
 
-## 🧰 Toolbox
+## 🧰 🛠️ Toolbox
 
 **Languages**
 Python · SQL · R
