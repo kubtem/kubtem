@@ -8,92 +8,50 @@ I work on designing, developing, and deploying AI-driven applications using mode
 
 ## 🚀 About Me
 
-- 🤖 Building AI applications with Machine Learning and Generative AI
-- 📊 Working with data analysis, predictive modeling, and automation workflows
-- 🧠 Interested in LLMs, AI agents, computer vision, and intelligent systems
-- ⚙️ Turning ideas into scalable AI prototypes and real-world solutions
-- 🔬 Background in AI for Science & Technology
+- 🤖 Building applications with Machine Learning, LLMs, and Generative AI
+- 📊 Working with data analysis, predictive models, and AI workflows
+- 🧠 Interested in AI agents, RAG systems, Computer Vision, and intelligent automation
+- ⚙️ Creating scalable prototypes and end-to-end AI solutions
 
----
+## 🛠️ Skills & Tools
 
-## 🛠️ Tech Stack
-
-### AI / Machine Learning
-- PyTorch
-- TensorFlow / Keras
+**AI / ML**
+- PyTorch, TensorFlow, Keras
 - scikit-learn
-- Hugging Face
-- Transformers
+- Hugging Face Transformers
 - LangChain
-- RAG Systems
 
-### Data Science
+**Data**
 - Python
-- NumPy
-- Pandas
+- Pandas, NumPy
 - SQL
-- Matplotlib
-- Jupyter
+- Data Visualization
 
-### Computer Vision
-- OpenCV
-- YOLO
-- Image Processing
-- Deep Learning
-
-### Backend & Deployment
+**Development**
 - FastAPI
 - Docker
-- Git / GitHub
+- Git
 - Linux
 
-### Automation & Tools
-- n8n
-- APIs
-- Workflow Automation
+## 🔥 Projects
 
----
+### 🤖 Generative AI
+LLM applications, RAG pipelines, AI automation workflows, and intelligent assistants.
 
-## 🔥 Featured Projects
-
-### 🤖 Generative AI Applications
-
-Building AI-powered applications using:
-- LLMs
-- Retrieval Augmented Generation (RAG)
-- AI Agents
-- Structured Outputs
-
----
-
-### 📊 Machine Learning Projects
-
-Projects involving:
-- Data preprocessing
-- Model development
-- Evaluation pipelines
-- Predictive analytics
-
----
+### 📈 Machine Learning
+Predictive modeling, data processing pipelines, and model evaluation.
 
 ### 👁️ Computer Vision
+Deep learning models for image analysis and computer vision tasks.
 
-Deep learning projects including:
-- Image classification
-- Object detection
-- Image analysis
-
----
+### 🏥 Healthcare AI
+AI applications involving medical data and imaging.
 
 ## 🎓 Background
 
-MSc in Artificial Intelligence for Science & Technology
+MSc in Artificial Intelligence for Science & Technology.
 
-Focus:
-- Machine Learning
-- Deep Learning
-- AI Applications
-- Data-driven Systems
+Interested in building AI systems that create real-world impact.
 
 ---
 
