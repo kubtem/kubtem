@@ -19,7 +19,7 @@ My background combines Artificial Intelligence with Biomedical Sciences, allowin
 ## 💼 Professional Experience
 
 ### AI & Data Scientist — Freelance
-2024 — Present
+2024 - Present
 
 Developing AI and data science solutions involving:
 - Data processing and analysis
@@ -27,7 +27,7 @@ Developing AI and data science solutions involving:
 - AI automation
 - Applied AI projects across different domains
 
-### AI Research — Medical Imaging
+### AI Research - Medical Imaging
 Ospedale San Raffaele
 
 Worked on AI applications for medical imaging, including:
