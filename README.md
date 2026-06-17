@@ -1,4 +1,4 @@
-# 👋 Ciao, I'm Kübra
+# 🙋🏼‍♀️ Ciao, I'm Kübra
 
 AI Engineer & Data Scientist passionate about building intelligent systems with Machine Learning, Generative AI, and data-driven technologies.
 
