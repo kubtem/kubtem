@@ -2,7 +2,7 @@
 
 AI Engineer & Data Scientist passionate about building intelligent systems with Machine Learning, Generative AI, and data-driven technologies.
 
-My background combines Artificial Intelligence with Biomedical Sciences, allowing me to work across software, data, and healthcare-related AI applications.
+My background combines Artificial Intelligence, data science, and software development, enabling me to build practical AI solutions across different domains.
 
 ---
 
@@ -40,45 +40,40 @@ Worked on AI applications for medical imaging, including:
 
 ## 🚀 Projects I Work On
 
-🧠 🧬 **Synthetic Medical Image Generation**
+### 🤖 AI Applications
 
-Deep learning approaches for generating synthetic imaging data using image-to-image translation models.
+LLM applications · AI automation workflows · Intelligent assistants
 
-🤖 **Generative AI Systems**
+### 🧠 Machine Learning
 
-Building applications with:
+Deep learning models · Computer vision
+Predictive modeling · Model optimization
 
-- LLMs
-- RAG pipelines
-- AI agents
-- Automated workflows
+### ⚙️ AI Engineering
 
-📊 **Machine Learning Projects**
-
-Exploring:
-
-- Predictive modeling
-- Data analysis
-- Model optimization
+Data pipelines  ·  Model development · AI prototypes
 
 ---
 
 ## 🧰 🛠️ Toolbox
 
-**Languages**
+**Languages**  
 Python · SQL · R
 
-**AI & Data**
+**AI & Data**  
 PyTorch · TensorFlow · Keras · Scikit-learn  
 Pandas · NumPy
 
-**GenAI**
+**GenAI**  
 Transformers · LangChain · LLM APIs
 
-**Tools**
-Git · Docker · Linux · FastAPI
+**Tools**  
+Git · GitHub · Linux · Jupyter · Kaggle
 
-**Computer Vision**
+**Backend & Deployment (learning)**  
+FastAPI · Docker
+
+**Computer Vision**  
 OpenCV · MONAI
 
 ---
